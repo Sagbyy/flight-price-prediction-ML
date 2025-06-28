@@ -1,0 +1,10 @@
+name: flight-price-prediction-ML
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scipy
+  - seaborn
+  - plotly
